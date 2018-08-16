@@ -3,9 +3,9 @@ import requests
 class TSG_API():
     """
     API for https://www.thesharegame.com
-    You can get more information about each Method by calling help(TSG_API.methodName) on it
+    You can get more information about each method by calling help(TSG_API.methodName) on it
     Visit https://www.thesharegame.com/api/overview/ to get your own API-Token
-    You need to install the python Module "requests" on your computer
+    You need to install the python Module "requests" in order to use this module
     Created by James-Smith (ID:10) and HavingAnEdge (ID:76)
     """
 
