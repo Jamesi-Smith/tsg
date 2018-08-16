@@ -102,7 +102,7 @@ def example():
 if __name__ == '__main__':
 
     print "API for thesharegame.com"
-    print "Call help(TSG_API) to get more information about the Methods"
+    print "Call help(TSG_API) to get more information about the methods"
     print 'Call python -c "import TSG_API; TSG_API.example()" to get an example (getting every record in the tsgIndex)'
     #help(TSG_API)
     #help(TSG_API.get_yourBuy)
