@@ -91,7 +91,7 @@ class TSG_API():
 
 def example():
     print "##### Getting TSGIndex-data #####"
-    api = TSG_API("YourToken") #Since tsgIndex-data is free to test, you don't need to pass any token here
+    api = TSG_API("YourToken") #Since tsgIndex-data is free to test, you don't need to pass any token
     tsgIndex = api.get_tsgIndex()
     for datapoint in tsgIndex:
         s = ""
