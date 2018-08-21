@@ -1,3 +1,3 @@
-__all__ = ["api"]
+__all__ = ["TSG_API"]
 
-from . import api
+from . import TSG_API
